@@ -1,0 +1,13 @@
+{
+    "name": "alexandr78911/advanced-custom-fields-pro-5.9.5",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/alexandr78911/advanced-custom-fields-pro-5.9.5",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "require": {
+      "php": ">=7.1"
+    }
+  }
+  
